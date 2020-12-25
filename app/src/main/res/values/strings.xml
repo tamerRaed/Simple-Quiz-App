@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Simple Quiz</string>
+    <string name="start">Start</string>
+    <string name="question">Question</string>
+    <string name="question_num_1">1 / 5</string>
+    <string name="question_num_2">2 / 5</string>
+    <string name="question_num_3">3 / 5</string>
+    <string name="question_num_4">4 / 5</string>
+    <string name="question_num_5">5 / 5</string>
+
+    <string name="question_1">What is the most popular mobile OS in the world ?</string>
+    <string name="question_2">What programming language we use to develop Android apps ?</string>
+    <string name="question_3">What is the official IDE for Android development ?</string>
+    <string name="question_4">What is the name of the company that develop Android platform ?</string>
+    <string name="question_5">What is the latest version of Android ?</string>
+
+    <string name="iOS">iOS</string>
+    <string name="android">Android</string>
+    <string name="windows_phone">Windows Phone</string>
+
+    <string name="python">Python</string>
+    <string name="javaScript">JavaScript</string>
+    <string name="java">Java</string>
+
+    <string name="android_IDE">Android IDE</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="eclipse">Eclipse</string>
+
+    <string name="facebook">Facebook</string>
+    <string name="udacity">Udacity</string>
+    <string name="google">Google</string>
+
+    <string name="pie">pie</string>
+    <string name="android_10">10</string>
+    <string name="oreo">Oreo</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="result">Result</string>
+    <string name="no_answer_selected">No answer selected !</string>
+
+    <string name="int_result">\u0020 %d \n\u0020 \u0020 /\n \u0020 \u0020 %d</string>
+    <string name="quiz_result">&lt;sup&gt;%d&lt;/sup&gt;/&lt;sub&gt;%d&lt;/sub&gt;</string>
+
+</resources>

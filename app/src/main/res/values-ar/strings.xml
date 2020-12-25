@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">اختبار قصير</string>
+    <string name="start">ابدأ</string>
+    <string name="question">السؤال</string>
+    <string name="question_num_1">1 / 5</string>
+    <string name="question_num_2">2 / 5</string>
+    <string name="question_num_3">3 / 5</string>
+    <string name="question_num_4">4 / 5</string>
+    <string name="question_num_5">5 / 5</string>
+
+    <string name="question_1">ما هو نظام التشغيل الأكثر انتشارا في العالم ؟</string>
+    <string name="iOS">iOS</string>
+    <string name="android">أندرويد</string>
+    <string name="windows_phone">ويندوز فون</string>
+
+
+    <string name="question_2">ما هي لغة البرمجة التي نستخدمها لبرمجة تطبيقات أندرويد ؟</string>
+    <string name="python">بايثون</string>
+    <string name="javaScript">جافاسكريبت</string>
+    <string name="java">جافا</string>
+
+
+    <string name="question_3">ما هي بيئة التطوير الرسمية المستخدمة في تطوير تطبيقات أندرويد ؟</string>
+    <string name="android_IDE">بيئة تطوير أندرويد المتكاملة</string>
+    <string name="android_studio">أندرويد ستوديو</string>
+    <string name="eclipse">إيكلبس</string>
+
+
+    <string name="question_4">ما هو إسم الشركة المطورة لنظام أندرويد ؟</string>
+    <string name="facebook">فيسبوك</string>
+    <string name="udacity">يوداستي</string>
+    <string name="google">جوجل</string>
+
+
+    <string name="question_5">ما هو آخر إصدار من نظام أندرويد ؟</string>
+    <string name="pie">pie</string>
+    <string name="android_10">10</string>
+    <string name="oreo">Oreo</string>
+
+
+    <string name="confirm">تأكيد</string>
+    <string name="next">التالي</string>
+    <string name="finish">إنهاء</string>
+    <string name="result">النتيجة</string>
+    <string name="no_answer_selected">لم يتم تحديد أي إجابة!</string>
+
+    <string name="int_result"> \u0020 \u0020 \u0020 \u0020 %d \n \u0020 \u0020  /  \n     %d  </string>
+    <string name="quiz_result">&lt;sup&gt;%1$d&lt;/sup&gt;\\&lt;sub&gt;%2$d&lt;/sub&gt;</string>
+
+</resources>
